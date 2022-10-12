@@ -1,5 +1,5 @@
 
-# Text-Classification-with pre-trained transfer models
+# Text-Classification-with pre-trained models
 
 The notbook in this repository contains the code for a Kaggle in-class competition. 
 The goal was to predict the category of scientific research papers. Due to coppy right issues, the dataset was not provided in this repository. There are 40 categories 
